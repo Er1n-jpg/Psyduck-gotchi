@@ -32,6 +32,7 @@ Here's the ONshape model of my project assembled, casing and all! (Psyduck doesn
 
 Here's my PCB with all it's components
 <img width="918" height="637" alt="image" src="https://github.com/user-attachments/assets/b0712de8-4f3a-40f0-9cba-d861c2f9dcb8" />
+
 Schematic ^^
 
 <img width="665" height="571" alt="image" src="https://github.com/user-attachments/assets/8d5bd0e8-c1b9-4163-b08d-260aacc32216" />
