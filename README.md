@@ -6,11 +6,15 @@ When you first boot up the OLED display, it should contain the Energy, Happiness
 
 <img width="829" height="789" alt="image" src="https://github.com/user-attachments/assets/8570eb29-d427-4466-b80f-a2b9655185b5" />
 
+
 the 3 buttons do as follows:
+
 Left button: Feed the duck
               - When you press the button, the virtual pet will be fed! Used when hunger bar is low
+              
 Middle button: Play with the duck
               - When you press the middle button, the you can play with the virtual pet! This is used when the happiness bar is low
+              
 Right button: Put the duck to sleep
               - When you press the middle button, you will put the duck to sleep, a sleeping image is played! This is used when the energy is low
 
@@ -33,6 +37,7 @@ Here's the ONshape model of my project assembled, casing and all! (Psyduck doesn
 
 
 Here's my PCB with all it's components
+
 <img width="918" height="637" alt="image" src="https://github.com/user-attachments/assets/b0712de8-4f3a-40f0-9cba-d861c2f9dcb8" />
 
 Schematic ^^
