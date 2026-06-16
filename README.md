@@ -3,6 +3,7 @@ A tamagotchi is basically a virtual pet you can take care of with stats indicati
 
 My tamagotchi project has 3 buttons, an LCD screen, a buzzer, Neopixels which change color for it's eyebrows...? 
 When you first boot up the OLED display, it should contain the Energy, Happiness and Hunger stats on the screen. 
+
 <img width="829" height="789" alt="image" src="https://github.com/user-attachments/assets/8570eb29-d427-4466-b80f-a2b9655185b5" />
 
 the 3 buttons do as follows:
@@ -27,6 +28,7 @@ it would be a challenge for me to CAD since I had previous CAD experience. This 
 I try to buy something psyduck themed but I thought since I had the 3D printer filament, why not go for a psyduck printed item (oops I hope I have enough filament).
 
 Here's the ONshape model of my project assembled, casing and all! (Psyduck doesn't really look like psyduck BUT I TRIED)
+
 <img width="796" height="688" alt="image" src="https://github.com/user-attachments/assets/94a34cbd-ea2a-4e88-98b3-6e21f1710bc2" />
 
 
