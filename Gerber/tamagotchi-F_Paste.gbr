@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.2*%
+%TF.CreationDate,2026-06-16T13:28:00-04:00*%
+%TF.ProjectId,tamagotchi,74616d61-676f-4746-9368-692e6b696361,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.2) date 2026-06-16 13:28:00*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.000000X2.500000*%
+%ADD11R,2.200000X2.500000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,D2*%
+X165000000Y-69900000D03*
+D11*
+X167000000Y-69900000D03*
+%TD*%
+D10*
+%TO.C,D1*%
+X131000000Y-70000000D03*
+D11*
+X133000000Y-70000000D03*
+%TD*%
+M02*
