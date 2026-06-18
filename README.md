@@ -1,3 +1,4 @@
+<img width="420" height="595" alt="Fallout zine (3)" src="https://github.com/user-attachments/assets/aa2d0294-a114-4d1c-adf3-43dd9d240e72" />
 
 # PsyduckGotchi (Tamagotchi Project)
 
@@ -62,7 +63,6 @@ Traces^^
 | LED | Yongyutai LED's | 50 | $0.01 | $0.50 |
 | LCSC shipping | --- | --- | --- | --- | $14.51 |
 | Total | --- | --- | --- | 35.32 | $45.32 |
-
 
 
 
