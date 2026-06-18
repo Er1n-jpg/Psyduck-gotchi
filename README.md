@@ -31,9 +31,11 @@ it would be a challenge for me to CAD since I had previous CAD experience. This 
 I try to buy something psyduck themed but I thought since I had the 3D printer filament, why not go for a psyduck printed item (oops I hope I have enough filament).
 
 # CAD model
-Here's the ONshape model of my project assembled, casing and all! (Psyduck doesn't really look like psyduck BUT I TRIED)
+Here's the ONshape assembly of my project
 
 <img width="796" height="688" alt="image" src="https://github.com/user-attachments/assets/94a34cbd-ea2a-4e88-98b3-6e21f1710bc2" />
+
+you can also check it out [here](https://cad.onshape.com/documents/41e01f73df5ff1d754294f2c/w/e586c19b9efa3d71e410a140/e/51dadf3c9c8fd63de1790a83)
 
 
 # PCB
