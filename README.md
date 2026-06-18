@@ -49,7 +49,18 @@ Traces^^
 
 3D render^^
 
+# BOM (bill of materials)
+[Tamagotchi BOM - Sheet1.csv](https://github.com/user-attachments/files/29111727/Tamagotchi.BOM.-.Sheet1.csv)
 
+Item,Description,,Quantity (#),Unit price ($),Shipping($),Total Price ($)
+PCB,PCB quote from JLCPCB,,1,$2.00,$2.50,$4.50
+ESP32,Seed Studio XIAO ESP32,,1,$4.94,$18.31,#VALUE!
+OLED,128 x 64 OLED LCD,,1,$4.00,,$4.00
+Buzzer,Passive Buzzer,,5,$0.06,,$0.50
+Buttons,Hropart round buttons,,5,$0.11,,$0.50
+LED,Yongyutai LED's,,50,$0.01,,$0.50
+LCSC shipping,,,,,$14.51,
+Total,,,,,35.32,$45.32
 
 
 
