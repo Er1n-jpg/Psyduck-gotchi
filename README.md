@@ -4,7 +4,8 @@
 Psyduck-gotchi (gotchu!) is a my very first project I ever made for fallout. I made this using the tamagotchi tutorial on the fallout site!
 A tamagotchi is basically a virtual pet you can take care of with stats indicating it's happiness, energy and hunger. It's a silly little thing that you can bring around and make you feel like you're taking care of something, Psyduck runs off an ESP32 with LIPO battery compatibility
 
-My tamagotchi project has 3 buttons, an LCD screen, a buzzer, Neopixels which change color for it's eyebrows...? 
+# How this works!
+My tamagotchi project has 3 buttons, an LCD screen, a buzzer, and has neopixels for the LED backlighting. 
 When you first boot up the OLED display, it should contain the Energy, Happiness and Hunger stats on the screen. 
 
 <img width="829" height="789" alt="image" src="https://github.com/user-attachments/assets/8570eb29-d427-4466-b80f-a2b9655185b5" />
