@@ -30,6 +30,7 @@ I made this project since I thought it would be a super good first hardware proj
 it would be a challenge for me to CAD since I had previous CAD experience. This is also a birthday present for a friend who looooves psyduck ( a very very cute and stupid pokemon). It's stereotypical that
 I try to buy something psyduck themed but I thought since I had the 3D printer filament, why not go for a psyduck printed item (oops I hope I have enough filament).
 
+# CAD model
 Here's the ONshape model of my project assembled, casing and all! (Psyduck doesn't really look like psyduck BUT I TRIED)
 
 <img width="796" height="688" alt="image" src="https://github.com/user-attachments/assets/94a34cbd-ea2a-4e88-98b3-6e21f1710bc2" />
