@@ -57,19 +57,12 @@ Traces^^
 | PCB | PCB quote from JLCPCB | 1 | $2.00 | $2.50 | $4.50 |
 | ESP32 | Seed Studio XIAO ESP32 | 1 | $4.94 | $18.31 | $23.25 |
 | OLED | 128 x 64 OLED LCD | 1 | $4.00 | --- | $4.00 |
+| Buzzer | Passive Buzzer | --- | 5 | $0.06 | $0.50 |
+| Buttons | Hropart round buttons| --- | 5| $0.11 | $0.50 |
+| LED | Yongyutai LED's | 50 | $0.01 | $0.50 |
+| LCSC shipping | --- | --- | --- | --- | $14.51 |
+| Total | --- | --- | --- | 35.32 | $45.32 |
 
-Buzzer,Passive Buzzer,,5,$0.06,,$0.50
-Buttons,Hropart round buttons,,5,$0.11,,$0.50
-LED,Yongyutai LED's,,50,$0.01,,$0.50
-LCSC shipping,,,,,$14.51,
-Total,,,,,35.32,$45.32
-
-
-
-| Header 1 | Header 2 | Header 3 |
-| --- | --- | --- |
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
 
 
 
