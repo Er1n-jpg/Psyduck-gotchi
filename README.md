@@ -11,7 +11,7 @@ When you first boot up the OLED display, it should contain the Energy, Happiness
 
 <img width="829" height="789" alt="image" src="https://github.com/user-attachments/assets/8570eb29-d427-4466-b80f-a2b9655185b5" />
 
-3 different screens will be played on the OLED. If psyduck looks happy, it means that one of your stats (happiness, energy, hunger) is above 60. If psyduck is neutral than your stats are between 60 and 30 (should be fine, leave him alone for a bit!). If psyduck is sad then all of your stats are below 30%.
+3 different screens will be played on the OLED. If psyduck looks happy, it means that one of your stats (happiness, energy, hunger) is above 60. If psyduck is neutral than your stats are between 60 and 30 (should be fine, leave him alone for a bit!). If psyduck is sad then all of your stats are below 30%. His stats will decrease overtime like a real pet.
 Careful! Psyduck can die ... :(. If all of your stats are under 5% then psyduck will die!! Don't worry though, he's not dead forever, just for a minute, after that his stats return to normal again!
 
 the 3 buttons on the tamagotchi do as follows:
