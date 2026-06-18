@@ -10,26 +10,20 @@ When you first boot up the OLED display, it should contain the Energy, Happiness
 
 <img width="829" height="789" alt="image" src="https://github.com/user-attachments/assets/8570eb29-d427-4466-b80f-a2b9655185b5" />
 
+3 different screens will be played on the OLED. If psyduck looks happy, it means that one of your stats (happiness, energy, hunger) is above 60. If psyduck is neutral than your stats are between 60 and 30 (should be fine, leave him alone for a bit!). If psyduck is sad then all of your stats are below 30%.
+Careful! Psyduck can die ... :(. If all of your stats are under 5% then psyduck will die!! Don't worry though, he's not dead forever, just for a minute, after that his stats return to normal again!
 
-the 3 buttons do as follows:
-
+the 3 buttons on the tamagotchi do as follows:
 Left button: Feed the duck
-              - When you press the button, the virtual pet will be fed! Used when hunger bar is low
-              
+              - When you press the button, the virtual pet will be fed! Used when hunger bar is low 
 Middle button: Play with the duck
               - When you press the middle button, the you can play with the virtual pet! This is used when the happiness bar is low
-              
 Right button: Put the duck to sleep
               - When you press the middle button, you will put the duck to sleep, a sleeping image is played! This is used when the energy is low
 
-
 Everytime a button is clicked, the buzzer will play a sound.
 
-Psyduck will get sad if any of it's stats (happiness, hunger, energy) get below 30!!!
-
-Neopixels will always be on!
-
-
+# why I made this
 
 I made this project since I thought it would be a super good first hardware project instead of making hackpads like everyone else. I also made this since I thought 
 it would be a challenge for me to CAD since I had previous CAD experience. This is also a birthday present for a friend who looooves psyduck ( a very very cute and stupid pokemon). It's stereotypical that
@@ -40,7 +34,8 @@ Here's the ONshape model of my project assembled, casing and all! (Psyduck doesn
 <img width="796" height="688" alt="image" src="https://github.com/user-attachments/assets/94a34cbd-ea2a-4e88-98b3-6e21f1710bc2" />
 
 
-Here's my PCB with all it's components
+# PCB
+Here's the wiring schematic and traces of my PCB as well as a kicad's 3D render
 
 <img width="918" height="637" alt="image" src="https://github.com/user-attachments/assets/b0712de8-4f3a-40f0-9cba-d861c2f9dcb8" />
 
@@ -54,7 +49,6 @@ Traces^^
 
 3D render^^
 
-All of my PCB stuff can be accessed VIA the PCB file in the repo if you're interested!!
 
 
 
