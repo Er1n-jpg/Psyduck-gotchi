@@ -1,5 +1,6 @@
 
-#PsyduckGotchi (Tamagotchi Project)
+# PsyduckGotchi (Tamagotchi Project)
+
 Psyduck-gotchi (gotchu!) is a my very first project I ever made for fallout. I made this using the tamagotchi tutorial on the fallout site!
 A tamagotchi is basically a virtual pet you can take care of with stats indicating it's happiness, energy and hunger. It's a silly little thing that you can bring around and make you feel like you're taking care of something!
 
